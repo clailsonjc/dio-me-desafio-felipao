@@ -1,0 +1,13 @@
+{
+  "name": "curso-dio-nodejs",
+  "version": "1.0.0",
+  "description": "Simulador de corridas. Desafio Felipão",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}

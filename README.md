@@ -5,7 +5,7 @@ Desafio de projeto do Felipão: Mario Kart.JS
   <table>
         <tr>
             <td>
-                <img src="./docs/header.gif" alt="Mario Kart" width="200">
+                <img src="./doc/header.gif" alt="Mario Kart" width="200">
             </td>
             <td>
                 <b>Objetivo:</b>
@@ -19,7 +19,7 @@ Desafio de projeto do Felipão: Mario Kart.JS
         <tr>
             <td style="border: 1px solid black; text-align: center;">
                 <p>Mario</p>
-                <img src="./docs/mario.gif" alt="Mario Kart" width="60" height="60">
+                <img src="./doc/mario.gif" alt="Mario Kart" width="60" height="60">
             </td>
             <td style="border: 1px solid black; text-align: center;">
                 <p>Velocidade: 4</p>
@@ -28,7 +28,7 @@ Desafio de projeto do Felipão: Mario Kart.JS
             </td>
              <td style="border: 1px solid black; text-align: center;">
                 <p>Peach</p>
-                <img src="./docs/peach.gif" alt="Mario Kart" width="60" height="60">
+                <img src="./doc/peach.gif" alt="Mario Kart" width="60" height="60">
             </td>
             <td style="border: 1px solid black; text-align: center;">
                 <p>Velocidade: 3</p>
@@ -37,7 +37,7 @@ Desafio de projeto do Felipão: Mario Kart.JS
             </td>
               <td style="border: 1px solid black; text-align: center;">
                 <p>Yoshi</p>
-                <img src="./docs/yoshi.gif" alt="Mario Kart" width="60" height="60">
+                <img src="./doc/yoshi.gif" alt="Mario Kart" width="60" height="60">
             </td>
             <td style="border: 1px solid black; text-align: center;">
                 <p>Velocidade: 2</p>
@@ -48,7 +48,7 @@ Desafio de projeto do Felipão: Mario Kart.JS
         <tr>
             <td style="border: 1px solid black; text-align: center;">
                 <p>Bowser</p>
-                <img src="./docs/bowser.gif" alt="Mario Kart" width="60" height="60">
+                <img src="./doc/bowser.gif" alt="Mario Kart" width="60" height="60">
             </td>
             <td style="border: 1px solid black; text-align: center;">
                 <p>Velocidade: 5</p>
@@ -57,7 +57,7 @@ Desafio de projeto do Felipão: Mario Kart.JS
             </td>
             <td style="border: 1px solid black; text-align: center;">
                 <p>Luigi</p>
-                <img src="./docs/luigi.gif" alt="Mario Kart" width="60" height="60">
+                <img src="./doc/luigi.gif" alt="Mario Kart" width="60" height="60">
             </td>
             <td style="border: 1px solid black; text-align: center;">
                 <p>Velocidade: 3</p>
@@ -66,7 +66,7 @@ Desafio de projeto do Felipão: Mario Kart.JS
             </td>
             <td style="border: 1px solid black; text-align: center;">
                 <p>Donkey Kong</p>
-                <img src="./docs/dk.gif" alt="Mario Kart" width="60" height="60">
+                <img src="./doc/dk.gif" alt="Mario Kart" width="60" height="60">
             </td>
             <td style="border: 1px solid black; text-align: center;">
                 <p>Velocidade: 2</p>
